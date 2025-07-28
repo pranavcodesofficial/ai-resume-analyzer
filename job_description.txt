@@ -1,0 +1,21 @@
+
+Job Title: Machine Learning Engineer – GenAI/NLP
+
+We are looking for a Machine Learning Engineer with a strong foundation in Python and experience in building real-world AI applications.
+
+Key Responsibilities:
+- Design and deploy ML models using Scikit-learn, TensorFlow, or PyTorch
+- Work with NLP libraries like NLTK, spaCy, or Hugging Face Transformers
+- Fine-tune and integrate LLMs (e.g., GPT-4, Claude) using APIs (e.g., OpenAI)
+- Perform model evaluation, validation, and tuning
+- Work with cloud platforms such as AWS or GCP for model deployment
+
+Qualifications:
+- Proficiency in Python
+- Strong understanding of data preprocessing and feature engineering
+- Hands-on experience with RESTful APIs and OpenAI integrations
+- Knowledge of vector databases and semantic search is a plus
+- Strong communication and collaboration skills
+
+Bonus:
+- Experience with resume screening, recommender systems, or chatbot development
